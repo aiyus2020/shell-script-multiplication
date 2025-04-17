@@ -21,6 +21,10 @@ For partial multiplication tables, I added logic to ask for a starting and endin
 ### 💡 Real-World Scripting Practice  
 This project gave me hands-on experience with writing practical Bash scripts. It combined loops, conditionals, and user input to create a functional tool—one that mimics real-world scripting tasks.
 
+- link to the script
+
+[View the script](./multiplication.sh)
+
 ---
 
 ## 📸 Screenshots
